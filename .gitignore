@@ -1,0 +1,5 @@
+/jms-receiver/.project
+.settings
+/jms-receiver/.classpath
+/jms-sender/.classpath
+/jms-sender/.project
